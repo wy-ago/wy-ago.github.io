@@ -1,1 +1,0 @@
-flume-ng agent -n a1 -c /home/bigdata/flume1.6/conf/ -f /home/bigdata/flume1.6/conf/tail_spark.conf -Dflume.root.logger=INFO,console
